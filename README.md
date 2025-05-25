@@ -153,7 +153,6 @@ Construction du bulletin formaté en trois sections :
 1. **Pas de validation** des formats de données d'entrée
 2. **Absence de calcul** de moyennes par matière
 3. **Pas de moyenne globale** de la classe
-4. **Capacité limitée** : 999 étudiants, 20 cours par étudiant
 
 ### Limitations techniques
 1. **Format fixe** des données d'entrée (positions codées en dur)
