@@ -112,7 +112,7 @@ Construction du bulletin formaté en trois sections :
 - Positionnement précis des colonnes
 - Ajout dynamique des notes
 
-🔚 #### Section Pied de page
+#### 🔚 Section Pied de page
 - Statistiques calculées dynamiquement
 - Commentaires fixes
 - Encadrement final
