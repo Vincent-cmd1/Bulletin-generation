@@ -8,7 +8,7 @@ Le programme `bulletin-gen` est une application COBOL développée pour automati
 - **Auteur** : Vincent-Cmd1
 - **Date de création** : 21/05/2025
 - **Dernière mise à jour** : 25/05/2025
-- **Langage** : COBOL (Standard industriel)
+- **Langage** : COBOL
 - **Type** : Application batch de traitement de données
 
  ## 🧱 Architecture du programme
